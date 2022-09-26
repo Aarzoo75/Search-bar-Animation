@@ -2,5 +2,8 @@
 Search bar animation using HTML & CSS
 
 ## Demo 
+
 ## Preview
-![2022-09-26 12-41-01](https://user-images.githubusercontent.com/59678435/192215341-f06a57f3-56c5-48a6-8aa0-ade2c9ecd2ba.gif)
+https://user-images.githubusercontent.com/59678435/192215527-84bb78e3-36bc-4045-acc1-8fe18c5ebda6.mp4
+
+
